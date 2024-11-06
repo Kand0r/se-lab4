@@ -1,0 +1,4 @@
+# GT4500 tüzelés all módban mindkét ágyúval
+GT4500,1,0,1,0
+TORPEDO,ALL # mindkét fegyvernek lonie kellett volna
+TORPEDO,ALL # egyik fegyvernek sem kellett volna lonie

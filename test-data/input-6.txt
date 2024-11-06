@@ -1,0 +1,3 @@
+# GT4500 fail rate tesztelése a secondary fegyveren single módban
+GT4500,0,0,1,1
+TORPEDO,SINGLE  # should have not fired from the secondary store
